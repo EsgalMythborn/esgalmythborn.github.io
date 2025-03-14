@@ -1,1 +1,3 @@
 # what makes elegant ttrpg design?
+
+The best definition of role-playing games I've ever heard was describing them as "formally structured imagination" ([GrismundGames](https://www.reddit.com/r/RPGdesign/comments/ue3t42/comment/i6ljryr/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)). And this is true, we need the structure to enable intriguing fictional developments, because only consistent restrictions make the decions that form the basis of every ttrpg possible in the first place. However, for these bounds not to constrain the at least equally important imagination, they cannot be too tight.
