@@ -1,3 +1,3 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [what makes elegant ttrpg design?](./chapter_1.md)
