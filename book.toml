@@ -5,4 +5,6 @@ multilingual = false
 src = "src"
 title = "Esgal Mythborn"
 
-[preprocessor.embedify]
+[output.html]
+default-theme = "Light"
+preferred-dark-theme = "Navy"
