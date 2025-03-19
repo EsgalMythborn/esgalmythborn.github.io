@@ -1,4 +1,5 @@
 [book]
+[preprocessor.embedify]
 authors = ["EsgalMythborn"]
 language = "en"
 multilingual = false
