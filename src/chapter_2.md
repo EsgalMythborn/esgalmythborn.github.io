@@ -37,7 +37,10 @@ Overview:
 
 
 
-[^note]: [GrismundGames](https://www.reddit.com/r/RPGdesign/comments/ue3t42/comment/i6ljryr/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
 
 This is by no means a full guide on how to design a complete system. It's a broad overview of a possible process. I hope some found my exposition interesting and hopefully got a few new ideas. Further, ttrpg design related topics will follow on this site.
 Once I post this one for discussion I will link it here:
+
+
+[^note]: [GrismundGames](https://www.reddit.com/r/RPGdesign/comments/ue3t42/comment/i6ljryr/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
