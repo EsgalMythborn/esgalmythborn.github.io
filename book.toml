@@ -8,3 +8,4 @@ title = "Esgal Mythborn"
 [output.html]
 default-theme = "Light"
 preferred-dark-theme = "Navy"
+smart-punctuation = true
